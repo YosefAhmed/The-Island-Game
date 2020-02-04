@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Examples/Scene_Biome_Plains.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
